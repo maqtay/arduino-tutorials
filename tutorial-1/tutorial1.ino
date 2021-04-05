@@ -12,7 +12,7 @@ void turnOffTheLeds();
 void setup() {
   Serial.begin(9600);
   for (int i = 0; i<LedsNumber; i++) pinMode(leds[i], OUTPUT);
-  for (int i = 0; i<ButtonsNumber); i++) pinMode(buttons[i], INPUT); 
+  for (int i = 0; i<ButtonsNumber; i++) pinMode(buttons[i], INPUT); 
 }
 
 void loop() {
