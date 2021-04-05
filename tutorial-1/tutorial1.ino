@@ -5,10 +5,6 @@
 short int leds[LedsNumber] = {13, 12, 11, 10, 9};
 short int buttons[ButtonsNumber] = {7, 4, 2};
 
-void startTheCircuit(int buttonIndex);
-void turnOnTheLeds();
-void turnOffTheLeds();
-
 void setup() {
   Serial.begin(9600);
   for (int i = 0; i<LedsNumber; i++) pinMode(leds[i], OUTPUT);
