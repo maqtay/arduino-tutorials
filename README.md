@@ -16,6 +16,12 @@ Bu projede Gömülü Sistemler dersinde her hafta yapmış olduğum ödevlerin k
 
 <hr>
 
+[**Hafta 3**](https://github.com/maqtay/arduino-tutorials/tree/main/tutorial-3) -> Sensör nedir? Arduino'da sensörler nasıl kullanılır?
+<br>
+[**Hafta 3 -> Youtube Anlatımı**](https://www.youtube.com/watch?v=80piv2db9NQ)
+
+<hr>
+
 [**Hafta 4**](https://github.com/maqtay/arduino-tutorials/tree/main/tutorial-4) -> Motor, sensör, LCD ve Keypad gibi devre elemanlarını kullanarak bir senaryo oluşturmak. Bu senaryoyu Arduino üzerinde modellemek.
 <br>
 [**Hafta 4 -> Youtube Anlatımı**]()
